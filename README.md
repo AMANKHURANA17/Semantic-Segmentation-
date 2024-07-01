@@ -1,1 +1,7 @@
-# Semantic-Segmentation-
+Semantic Segmentation for Self Driving Cars
+
+What is Semantic Segmentation? Semantic segmentation is a computer vision task that involves partitioning an image into multiple segments or regions and assigning each pixel in the image to a specific class or category. Unlike simpler forms of image classification, which classify the entire image into one category, semantic segmentation provides a more detailed understanding of the image by labeling each pixel individually. In semantic segmentation, each pixel is assigned a class label, typically from a predefined set of classes. Common classes include objects such as cars, pedestrians, buildings, trees, roads, etc., but the specific classes can vary depending on the application and dataset.
+
+Application of Semantic Segmentation: Semantic segmentation is widely used in various fields such as autonomous driving, medical image analysis, scene understanding in robotics, satellite image analysis, and more. It enables machines to perceive and understand the visual world with greater granularity, allowing for more sophisticated decision-making and analysis.
+
+Dataset: The Cityscapes dataset is a widely used benchmark dataset for semantic segmentation tasks in urban street scenes. It contains high-resolution images captured from the driver's perspective in various cities, with pixel-level annotations for 30 different classes such as cars, pedestrians, roads, sidewalks, buildings, and vegetation.
